@@ -1,0 +1,85 @@
+item,itemLabel,praenomenLabel,nomenLabel,cognomenLabel,gensLabel,sexeLabel,date_naissance,lieu_naissance,date_mort,lieu_mort,pere,mere
+http://www.wikidata.org/entity/Q2186,Romulus,,,,,masculin,-0770-01-01T00:00:00Z,http://www.wikidata.org/entity/Q335070,-0715-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q112,http://www.wikidata.org/entity/Q219936
+http://www.wikidata.org/entity/Q192998,Servius Tullius,Servius,Tullius,,Tullii,masculin,-0600-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,-0534-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q98365867,http://www.wikidata.org/entity/Q2013785
+http://www.wikidata.org/entity/Q193047,Tarquin le Superbe,Lucius,Tarquinius,,Tarquinii,masculin,-0600-01-01T00:00:00Z,t2267617287,-0494-01-01T00:00:00Z,http://www.wikidata.org/entity/Q243456,http://www.wikidata.org/entity/Q13030457,t2267617286
+http://www.wikidata.org/entity/Q200031,Numa Pompilius,Numa,Pompilius,,Pompilii,masculin,-0752-04-13T00:00:00Z,http://www.wikidata.org/entity/Q2246183,-0672-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q98350736,t2241088556
+http://www.wikidata.org/entity/Q200859,Tullus Hostilius,Tullus,Hostilius,,Hostilii,masculin,-0709-01-01T00:00:00Z,,-0640-01-01T00:00:00Z,,t2254681015,t2254681013
+http://www.wikidata.org/entity/Q206741,Ancus Marcius,Q98660919,Marcius,,Marcii,masculin,-0674-01-01T00:00:00Z,t2254706031,-0615-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q764629,http://www.wikidata.org/entity/Q21710836
+http://www.wikidata.org/entity/Q212671,Tarquin l'Ancien,Lucius,Tarquinius,Priscus,Tarquinii,masculin,-0700-01-01T00:00:00Z,http://www.wikidata.org/entity/Q179999,-0577-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q458754,t2254606073
+http://www.wikidata.org/entity/Q223440,Lucius Junius Brutus,Lucius,Junius,Brutus,Junii,masculin,-0539-01-01T00:00:00Z,t2266694249,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q128246,http://www.wikidata.org/entity/Q3290274,http://www.wikidata.org/entity/Q3515798
+http://www.wikidata.org/entity/Q229432,Lucrèce,,Lucretii,,Lucretii,féminin,-0600-01-01T00:00:00Z,t2283909791,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q705766,http://www.wikidata.org/entity/Q105763856
+http://www.wikidata.org/entity/Q273622,Tullia Major,,Tullia,,Tullii,féminin,-0600-01-01T00:00:00Z,t846655876,-0600-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q192998,http://www.wikidata.org/entity/Q12296044
+http://www.wikidata.org/entity/Q287980,Assemblées de la Monarchie romaine,,,,,,,,,,,
+http://www.wikidata.org/entity/Q326197,rois de Rome,,,,,,,,,,,
+http://www.wikidata.org/entity/Q353188,Lucius Tarquinius Collatinus,Lucius,Tarquinius,Collatinus,Tarquinii,masculin,-0600-01-01T00:00:00Z,t2256915777,t2256915786,t2256915781,http://www.wikidata.org/entity/Q98374052,t2256915789
+http://www.wikidata.org/entity/Q446260,Tullia Minor,,Tullia,,Tullii,féminin,-0600-01-01T00:00:00Z,t1393278118,t1393278097,t1393278052,http://www.wikidata.org/entity/Q192998,http://www.wikidata.org/entity/Q12296044
+http://www.wikidata.org/entity/Q456931,Sextus Tarquin,Sextus,Tarquinius,,Tarquinii,masculin,-0600-01-01T00:00:00Z,t2257352081,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q614510,http://www.wikidata.org/entity/Q193047,http://www.wikidata.org/entity/Q446260
+http://www.wikidata.org/entity/Q458754,Démarate de Corinthe,,,,,masculin,-0700-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1363688,-0700-01-01T00:00:00Z,http://www.wikidata.org/entity/Q21580466,t294333685,t294333832
+http://www.wikidata.org/entity/Q464034,Tanaquil,Caia,Caecilia,,Caecilii,féminin,-0700-01-01T00:00:00Z,t2224487143,-0600-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,t2224487140,t2224487138
+http://www.wikidata.org/entity/Q684439,Tarpeia,,Tarpeia,,Tarpeii,féminin,,,,,http://www.wikidata.org/entity/Q1974505,
+http://www.wikidata.org/entity/Q705766,Spurius Lucretius Tricipitinus,Spurius,Lucretius,Tricipitinus,Lucretii,masculin,-0600-01-01T00:00:00Z,t2258286763,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q55440325,t2258286756
+http://www.wikidata.org/entity/Q764629,Numa Marcius,Numa,Marcius,,Marcii,masculin,-0800-01-01T00:00:00Z,t2265841050,t2265841045,t2265841044,http://www.wikidata.org/entity/Q4281794,t2265841048
+http://www.wikidata.org/entity/Q764629,Numa Marcius,Numa,Marcius,,Marcii,masculin,-0800-01-01T00:00:00Z,t2265841050,t2265841045,t2265841044,http://www.wikidata.org/entity/Q11939034,t2265841048
+http://www.wikidata.org/entity/Q868015,Clélie,,Cloelia,,Cloelii,féminin,,,,,,
+http://www.wikidata.org/entity/Q960039,Titus Tatius,Titus,Tatius,,Tatii,masculin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2246183,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1352586,t852529390,t852529431
+http://www.wikidata.org/entity/Q1094373,Arruns,Arruns,Tarquinius,,Tarquinii,masculin,-0600-01-01T00:00:00Z,t2259290153,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q128246,http://www.wikidata.org/entity/Q193047,http://www.wikidata.org/entity/Q446260
+http://www.wikidata.org/entity/Q1242632,Rémus,,,,,masculin,-0770-01-01T00:00:00Z,http://www.wikidata.org/entity/Q335070,-0752-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q112,http://www.wikidata.org/entity/Q219936
+http://www.wikidata.org/entity/Q1888433,Mamurius Veturius,,Veturius,,Veturii,masculin,t2263530528,t2263530531,-0700-01-01T00:00:00Z,t2263530530,t2263530527,t2263530529
+http://www.wikidata.org/entity/Q1974505,Spurius Tarpeius,Spurius,Tarpeius,,Tarpeii,masculin,,,-0740-01-01T00:00:00Z,,,
+http://www.wikidata.org/entity/Q2013785,Ocrisia,,Ocrisia,,Ocrisia gens,féminin,t1674391501,http://www.wikidata.org/entity/Q5171759,-0600-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,t1674391543,t1674391540
+http://www.wikidata.org/entity/Q2398245,Tiberius Junius Brutus,Tiberius,Junius,Brutus,Junii,masculin,-0600-01-01T00:00:00Z,t2266707349,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q223440,http://www.wikidata.org/entity/Q55371769
+http://www.wikidata.org/entity/Q2739033,Hostus Hostilius,Hostus,Hostilius,,Hostilii,masculin,,,,,,
+http://www.wikidata.org/entity/Q2745841,Égérius,Arruns,Tarquinius,,Tarquinii,masculin,-0600-01-01T00:00:00Z,t862377268,t862377281,t862377302,http://www.wikidata.org/entity/Q2864247,t862377273
+http://www.wikidata.org/entity/Q2843754,Camille (Horaces),,Horatia,,Horatii,féminin,t309126459,,-0666-01-01T00:00:00Z,,,
+http://www.wikidata.org/entity/Q2864244,Arruns (frère de Tarquin l'Ancien),Arruns,Tarquinius,,Tarquinii,masculin,-0600-01-01T00:00:00Z,t1136024783,-0600-01-01T00:00:00Z,t1136024808,http://www.wikidata.org/entity/Q13030457,t1136024796
+http://www.wikidata.org/entity/Q2864247,Arruns,Arruns,Tarquinius,,Tarquinii,masculin,-0700-01-01T00:00:00Z,http://www.wikidata.org/entity/Q21580466,t1136024821,t1136024805,http://www.wikidata.org/entity/Q458754,t1136024763
+http://www.wikidata.org/entity/Q3267239,Titus Junius Brutus,Titus,Junius,Brutus,Junii,masculin,-0600-01-01T00:00:00Z,t2267850247,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q223440,http://www.wikidata.org/entity/Q55371769
+http://www.wikidata.org/entity/Q3277002,magistrat de la Monarchie romaine,,,,,,,,,,,
+http://www.wikidata.org/entity/Q3290273,Marcus Junius,Marcus,Junius,,Junii,masculin,-0600-01-01T00:00:00Z,t589707611,-0600-01-01T00:00:00Z,t589707610,http://www.wikidata.org/entity/Q3290274,http://www.wikidata.org/entity/Q3515798
+http://www.wikidata.org/entity/Q3290274,Marcus Junius,Marcus,Junius,,Junii,masculin,-0600-01-01T00:00:00Z,t24097852,t24097820,t24097828,t24097846,t24097854
+http://www.wikidata.org/entity/Q3410489,Publius Horatius,Publius,Horatius,,Horatii,masculin,-0700-01-01T00:00:00Z,t1410024775,-0700-01-01T00:00:00Z,t1410024739,t1410024749,t1410024764
+http://www.wikidata.org/entity/Q3515798,Tarquinia,,Tarquinia,,Tarquinii,féminin,-0600-01-01T00:00:00Z,t25044702,t25044680,t25044704,http://www.wikidata.org/entity/Q13030457,t25044657
+http://www.wikidata.org/entity/Q4281794,Marcus Marcius,Marcus,Marcius,,Marcii,masculin,,,,,t2265845321,t2265845317
+http://www.wikidata.org/entity/Q7810336,Tite Tarquinius,Titus,Tarquinius,,Tarquinii,masculin,-0600-01-01T00:00:00Z,t2282920566,-0498-01-01T00:00:00Z,http://www.wikidata.org/entity/Q27163866,http://www.wikidata.org/entity/Q193047,http://www.wikidata.org/entity/Q446260
+http://www.wikidata.org/entity/Q11934764,Mamercus,Mamercus,Pompilius,,Pompilii,masculin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2246183,t2248616422,t2248616424,http://www.wikidata.org/entity/Q200031,http://www.wikidata.org/entity/Q18759343
+http://www.wikidata.org/entity/Q11939034,Numa Marcius,Numa,Marcius,,Marcii,masculin,,,,,,
+http://www.wikidata.org/entity/Q12296044,Tarquinia the Elder,,Tarquinia,,Tarquinii,féminin,-0600-01-01T00:00:00Z,t1701525835,t1701525871,t1701525912,http://www.wikidata.org/entity/Q212671,http://www.wikidata.org/entity/Q464034
+http://www.wikidata.org/entity/Q13030457,Gnaeus Tarquinius,Cnaeus,Tarquinius,,Tarquinii,masculin,-0700-01-01T00:00:00Z,t48462951,t48462908,t48462925,http://www.wikidata.org/entity/Q212671,http://www.wikidata.org/entity/Q464034
+http://www.wikidata.org/entity/Q18588408,Calpus,t900653446,Pompilius,,Pompilii,masculin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2246183,t900653447,t900653450,http://www.wikidata.org/entity/Q200031,http://www.wikidata.org/entity/Q18759343
+http://www.wikidata.org/entity/Q18759343,Tatia,,Tatia,,Tatii,féminin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2246183,t901015339,t901015336,http://www.wikidata.org/entity/Q960039,t901015370
+http://www.wikidata.org/entity/Q21710836,Pompilia,,Pompilia,,Pompilii,féminin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2246183,t2231649693,t2231649696,http://www.wikidata.org/entity/Q200031,http://www.wikidata.org/entity/Q18759343
+http://www.wikidata.org/entity/Q25171439,Volesus,Volesus,Valerius,,Valerii,masculin,,,-0800-01-01T00:00:00Z,,,
+http://www.wikidata.org/entity/Q55371769,Vitellia,,Vitellia,,Vitellii,féminin,-0600-01-01T00:00:00Z,t735189000,t735188994,t735188992,http://www.wikidata.org/entity/Q98659434,t735189002
+http://www.wikidata.org/entity/Q55375123,roi de Rome,,,,,,,,,,,
+http://www.wikidata.org/entity/Q55387288,Tarquinia,,Tarquinia,,Tarquinii,féminin,-0600-01-01T00:00:00Z,t1552203917,t1552203928,t1552203918,http://www.wikidata.org/entity/Q193047,http://www.wikidata.org/entity/Q446260
+http://www.wikidata.org/entity/Q55399410,Tarquinia,,Tarquinia,,Tarquinii,féminin,-0600-01-01T00:00:00Z,t1009516507,t1009516508,t1009516510,http://www.wikidata.org/entity/Q98374052,t1009516525
+http://www.wikidata.org/entity/Q55399448,Aquilius,t1821791350,Aquillius,,Aquillii,masculin,-0600-01-01T00:00:00Z,t1821791334,t1821791377,t1821791343,t1821791364,t1821791369
+http://www.wikidata.org/entity/Q55399581,Lucius Aquilius,Lucius,Aquillius,,Aquillii,masculin,-0600-01-01T00:00:00Z,t177785733,-0508-01-01T00:00:00Z,t177785745,http://www.wikidata.org/entity/Q55399448,http://www.wikidata.org/entity/Q55399410
+http://www.wikidata.org/entity/Q55399601,Marcus Aquilius,Marcus,Aquillius,,Aquillii,masculin,-0600-01-01T00:00:00Z,t1281533240,-0508-01-01T00:00:00Z,t1281533247,http://www.wikidata.org/entity/Q55399448,http://www.wikidata.org/entity/Q55399410
+http://www.wikidata.org/entity/Q55399995,Marcus Vitellius,Marcus,Vitellius,,Vitellii,masculin,-0600-01-01T00:00:00Z,t735361042,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q98659434,t735361037
+http://www.wikidata.org/entity/Q55440325,Titus Lucretius,Titus,Lucretius,,Lucretii,masculin,-0600-01-01T00:00:00Z,t177961548,t177961503,t177961509,t177961523,t177961581
+http://www.wikidata.org/entity/Q55463614,Marcus Horatius,Marcus,Horatius,,Horatii,masculin,-0600-01-01T00:00:00Z,t177961507,t177961577,t177961520,t177961524,t177961575
+http://www.wikidata.org/entity/Q61621492,Petronius Sabinus,t2249415543,Petronius,Sabinus,Petronii,masculin,-0600-01-01T00:00:00Z,t2249415542,t2249415539,t2249415541,t2249415540,t2249415549
+http://www.wikidata.org/entity/Q63105711,Marcus Minucius,Marcus,Minucius,,Minucii,masculin,-0600-01-01T00:00:00Z,t1569402051,t1569402053,t1569402050,t1569402140,t1569402092
+http://www.wikidata.org/entity/Q63149369,Volusus Valerius,Volesus,Valerius,,Valerii,masculin,-0600-01-01T00:00:00Z,t1839115146,t1839115281,t1839115197,t1839115172,t1839115237
+http://www.wikidata.org/entity/Q63343975,Quintus Postumius,Quintus,Postumius,,Postumii,masculin,-0600-01-01T00:00:00Z,t1027282940,t1027283025,t1027283005,t1027282994,t1027283028
+http://www.wikidata.org/entity/Q75755163,Mamercus Aemilius,Mamercus,Aemilius,,Aemilii,masculin,-0550-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1747689,t1051563560,t1051563610,t1051563513,t1051563530
+http://www.wikidata.org/entity/Q85412120,pre-severian legion,,,,,,,,,,,
+http://www.wikidata.org/entity/Q86094232,kingdoms period roman legion,,,,,,,,,,,
+http://www.wikidata.org/entity/Q86099701,servian legion,,,,,,,,,,,
+http://www.wikidata.org/entity/Q94972107,Gegania,,Gegania,,Geganii,féminin,-0600-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,t1373966598,t1373966599,t1373966613,t1373966608
+http://www.wikidata.org/entity/Q97831763,Q97831763,Titus,Aebutius,,Aebutii,masculin,-0600-01-01T00:00:00Z,t1918188663,t1918188660,t1918188659,t1918188673,t1918188674
+http://www.wikidata.org/entity/Q97834339,Gaius Menenius,Caius,Menenius,,Menenii,masculin,-0600-01-01T00:00:00Z,t832878334,t832878303,t832878326,t832878365,t832878339
+http://www.wikidata.org/entity/Q97924803,Q97924803,t833070647,Lartius,Rufus,Lartii,masculin,-0600-01-01T00:00:00Z,t833070655,t833070658,t833070646,t833070672,t833070670
+http://www.wikidata.org/entity/Q97924803,Q97924803,t833070647,Lartius,Flavus,Lartii,masculin,-0600-01-01T00:00:00Z,t833070655,t833070658,t833070646,t833070672,t833070670
+http://www.wikidata.org/entity/Q98350736,Pompo,t1919138092,Pompilius,,Pompilii,masculin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2246183,t1919138100,t1919138113,t1919138096,t1919138114
+http://www.wikidata.org/entity/Q98356360,Pomponius,t2249434401,Pompilius,,Pompilii,masculin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2246183,t2249434388,t2249434396,http://www.wikidata.org/entity/Q200031,http://www.wikidata.org/entity/Q18759343
+http://www.wikidata.org/entity/Q98356753,Pinus,t1649821798,Pompilius,,Pompilii,masculin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2246183,t1649821796,t1649821784,http://www.wikidata.org/entity/Q200031,http://www.wikidata.org/entity/Q18759343
+http://www.wikidata.org/entity/Q98357965,Lucretia,,Lucretia,,Lucretii,féminin,-0800-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,t558454688,t558454729,t558454730,t558454703
+http://www.wikidata.org/entity/Q98365867,Tullius,Servius,Tullius,,Tullii,masculin,t2187236288,http://www.wikidata.org/entity/Q5171759,-0600-01-01T00:00:00Z,http://www.wikidata.org/entity/Q5171759,t2187236306,t2187236296
+http://www.wikidata.org/entity/Q98374052,Tarquinius Collatinus,t558454691,Tarquinius,Collatinus,Tarquinii,masculin,-0600-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1108919,-0600-01-01T00:00:00Z,t558454722,http://www.wikidata.org/entity/Q2745841,t558454714
+http://www.wikidata.org/entity/Q98378682,Tarquinia the Younger,,Tarquinia,,Tarquinii,féminin,-0700-01-01T00:00:00Z,t558454687,t558454710,t558454705,http://www.wikidata.org/entity/Q212671,http://www.wikidata.org/entity/Q464034
+http://www.wikidata.org/entity/Q98659434,Vitelio,t558987438,Vitellius,,Vitellii,masculin,-0600-01-01T00:00:00Z,t558987449,t558987445,t558987450,t558987441,t558987458
+http://www.wikidata.org/entity/Q98659758,Manio Vitelio,Manius,Vitellius,,Vitellii,masculin,-0600-01-01T00:00:00Z,t1379848139,-0508-01-01T00:00:00Z,http://www.wikidata.org/entity/Q220,http://www.wikidata.org/entity/Q98659434,t1379848145
+http://www.wikidata.org/entity/Q98739834,Publius Sulpicius,Publius,Sulpicius,,Sulpicii,masculin,-0600-01-01T00:00:00Z,t2237344619,t2237344623,t2237344616,t2237344622,t2237344618
+http://www.wikidata.org/entity/Q105763856,Junia,,Junia,,Junii,féminin,,,,,http://www.wikidata.org/entity/Q3290274,http://www.wikidata.org/entity/Q3515798
