@@ -131,15 +131,15 @@ creer_table(conn, sql_creer_table_mariage)
 creer_table(conn, sql_creer_table_oeuvre)
 
 # On place les donnees csv dans un dataframe pour les manipuler facilement.
-df_personne = pd.read_table("query_personne.csv", delimiter=",")
+df_personne = pd.read_table("data/query_personne.csv", delimiter=",")
 
 # On ajoute les resultats de requetes complementaires (on dédoublonnera apres).
-df_kingdom = pd.read_table("query_kingdom.csv", delimiter=",")
-df_early_republic = pd.read_table("query_early_republic.csv", delimiter=",")
-df_middle_republic = pd.read_table("query_middle_republic.csv", delimiter=",")
-df_late_republic = pd.read_table("query_late_republic.csv", delimiter=",")
-df_high_empire = pd.read_table("query_high_empire.csv", delimiter=",")
-df_low_empire = pd.read_table("query_low_empire.csv", delimiter=",")
+df_kingdom = pd.read_table("data/query_kingdom.csv", delimiter=",")
+df_early_republic = pd.read_table("data/query_early_republic.csv", delimiter=",")
+df_middle_republic = pd.read_table("data/query_middle_republic.csv", delimiter=",")
+df_late_republic = pd.read_table("data/query_late_republic.csv", delimiter=",")
+df_high_empire = pd.read_table("data/query_high_empire.csv", delimiter=",")
+df_low_empire = pd.read_table("data/query_low_empire.csv", delimiter=",")
 
 df_personne = df_personne.append(df_kingdom, ignore_index=True)
 df_personne = df_personne.append(df_early_republic, ignore_index=True)
@@ -220,7 +220,7 @@ df_personne = df_personne.replace(
 df_personne = df_personne.where(pd.notnull(df_personne), None)
 
 # On place les donnees csv dans un dataframe pour les manipuler facilement.
-df_activite = pd.read_table("query_activite.csv", delimiter=",")
+df_activite = pd.read_table("data/query_activite.csv", delimiter=",")
 
 # On renomme les colonnes.
 df_activite.rename(columns={"item": "personne_id",
@@ -247,7 +247,7 @@ df_activite = df_activite.replace(
 df_activite = df_activite.where(pd.notnull(df_activite), None)
 
 # On place les donnees csv dans un dataframe pour les manipuler facilement.
-df_poste = pd.read_table("query_poste.csv", delimiter=",")
+df_poste = pd.read_table("data/query_poste.csv", delimiter=",")
 
 # On renomme les colonnes.
 df_poste.rename(columns={"item": "personne_id",
@@ -275,7 +275,7 @@ df_poste = df_poste.where(pd.notnull(df_poste), None)
 
 # On place les donnees csv dans un dataframe pour les manipuler facilement.
 df_oeuvre = pd.read_table(
-    "query_oeuvre.csv",
+    "data/query_oeuvre.csv",
     delimiter=",")
 
 # On renomme les colonnes.
@@ -318,7 +318,7 @@ df_oeuvre = df_oeuvre.replace(
 df_oeuvre = df_oeuvre.where(pd.notnull(df_oeuvre), None)
 
 # On place les donnees csv dans un dataframe pour les manipuler facilement.
-df_mariage = pd.read_table("query_mariage.csv", delimiter=",")
+df_mariage = pd.read_table("data/query_mariage.csv", delimiter=",")
 
 # On renomme les colonnes.
 df_mariage.rename(columns={"item": "id_mari",
