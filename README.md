@@ -3,12 +3,12 @@
 
 ### Pré-requis :
 
-psycopg2-binary version 2.8.6
-jupyter-lab version 3.0.9
-pandas version 1.2.3
-sqlalchemy version 1.3.23
-numpy version 1.20.1
-matplotlib version 3.3.4
+* psycopg2-binary version 2.8.6
+* jupyter-lab version 3.0.9
+* pandas version 1.2.3
+* sqlalchemy version 1.3.23
+* numpy version 1.20.1
+* matplotlib version 3.3.4
 
 
 ### Contexte du projet :
@@ -21,6 +21,7 @@ Notre client est un site Internet éducatif sur le thème de l’Histoire, à de
 * Fichier script.py qu'il suffit de lancer pour créer, formater et remplir la base de données
 * Fichier CDC.pdf, le cahier des charges de la mission
 * Notebook TestBDD.ipynb qui contient à peu près le même code que le fichier script.py mais sous format notebook
+* Notebook RequetesSQL.ipynb avec quelques requêtes pour interroger la base de données
 * Notebook Visualisations.ipynb où on peut voir la génération de graphiques avec matplotlib
 * Fichier LAMBERT Philippe dossier certification data Nantes 2021.pdf qui explique le déroulement du projet
 * Dossier data/ avec les fichiers csv utilisés
@@ -41,7 +42,7 @@ Notre client est un site Internet éducatif sur le thème de l’Histoire, à de
 * Installer jupyter-lab et toutes les librairies python nécessaires
 
 ```pip install -r requirements.txt```
-* Aller dans le dépôt brief-pollution-paysdelaloire
+* Aller dans le dépôt projet-chef-d-oeuvre
 
 ```cd projet```
 
