@@ -165,14 +165,6 @@ df_personne['id'] = df_personne.id.str.replace(
     'http://www.wikidata.org/entity/Q',
     '',
     regex=True)
-df_personne['lieu_naissance'] = df_personne.lieu_naissance.str.replace(
-    'http://www.wikidata.org/entity/Q',
-    '',
-    regex=True)
-df_personne['lieu_mort'] = df_personne.lieu_mort.str.replace(
-    'http://www.wikidata.org/entity/Q',
-    '',
-    regex=True)
 df_personne['id_pere'] = df_personne.id_pere.str.replace(
     'http://www.wikidata.org/entity/Q',
     '',
