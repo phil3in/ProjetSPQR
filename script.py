@@ -67,9 +67,9 @@ sql_creer_table_personne = """
     gens text,
     sexe text,
     date_naissance date,
-    lieu_naissance integer,
+    lieu_naissance text,
     date_mort date,
-    lieu_mort integer,
+    lieu_mort text,
     id_pere integer,
     id_mere integer,
     PRIMARY KEY(id)
