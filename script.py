@@ -343,11 +343,24 @@ df_mariage.dropna(subset=["id_epouse"], inplace=True)
 # On cree une liste des id de personne dans la base.
 personne_id_list = df_personne['id'].tolist()
 
-# On filtre les mariage avec des personnes exterieures a la base.
+# On filtre les mariages avec des personnes exterieures a la base.
 for e in df_mariage['id_epouse']:
     if e not in personne_id_list:
         df_mariage.drop(
             df_mariage.loc[df_mariage['id_epouse'] == e].index,
+            inplace=True)
+
+# Pareil pour les autres tables
+for e in df_activite['personne_id']:
+    if e not in personne_id_list:
+        df_activite.drop(
+            df_activite.loc[df_activite['personne_id']==e].index,
+            inplace=True)
+
+for e in df_poste['personne_id']:
+    if e not in personne_id_list:
+        df_poste.drop(
+            df_poste.loc[df_poste['personne_id']==e].index,
             inplace=True)
 
 # On reinitialise l'index apres les suppressions
