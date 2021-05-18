@@ -23,7 +23,9 @@ Notre client est un site Internet éducatif sur le thème de l’Histoire, à de
 * Notebook RequetesSQL.ipynb avec quelques requêtes pour interroger la base de données
 * Notebook Visualisations.ipynb où on peut voir la génération de graphiques avec matplotlib
 * Fichier LAMBERT Philippe dossier certification data Nantes 2021.pdf qui explique le déroulement du projet
-* Répertoire data/ avec les fichiers csv utilisés, ainsi qu'un fichier json contenant 
+* Fichier creer-backup.py qui crée un backup de la base de données en local
+* Fichier zip de backup de la base de données
+* Répertoire data/ avec les fichiers csv utilisés, ainsi qu'un fichier json contenant les métadonnées des différents fichiers csv
 * Fichier metadata.py qui permet de créer au sein du répertoire data/ un fichier json contenant les métadonnées des différents fichiers csv
 
 
